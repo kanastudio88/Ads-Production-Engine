@@ -1,0 +1,6 @@
+{
+  "name": "Studio8 Production Engine",
+  "description": "Internal production and artwork automation tool with InDesign CS5.5-style layout workspace, auto-fit engine, live 8-seat team presence, and daily job summary tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
